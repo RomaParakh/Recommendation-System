@@ -1,1 +1,2 @@
 # Recommendation-System
+A recommendation system predicts the possibility that a user would favour few products over other. This system aims at providing recommendation for movies and TV-shows which user might like, based on user’s historical preferences. This system is a content based recommender system which focuses on the attributes such as genre, title, cast etc. and suggests a movie or show which user might like to watch. Recommender system helps in prioritising and personalising content as per one’s interest.
